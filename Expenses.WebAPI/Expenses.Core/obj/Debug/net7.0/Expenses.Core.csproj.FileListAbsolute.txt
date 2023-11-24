@@ -1,0 +1,15 @@
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\bin\Debug\net7.0\Expenses.Core.deps.json
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\bin\Debug\net7.0\Expenses.Core.dll
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\bin\Debug\net7.0\Expenses.Core.pdb
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\bin\Debug\net7.0\Expenses.DB.dll
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\bin\Debug\net7.0\Expenses.DB.pdb
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\obj\Debug\net7.0\Expenses.Core.csproj.AssemblyReference.cache
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\obj\Debug\net7.0\Expenses.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\obj\Debug\net7.0\Expenses.Core.AssemblyInfoInputs.cache
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\obj\Debug\net7.0\Expenses.Core.AssemblyInfo.cs
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\obj\Debug\net7.0\Expenses.Core.csproj.CoreCompileInputs.cache
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\obj\Debug\net7.0\Expenses.Core.csproj.CopyComplete
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\obj\Debug\net7.0\Expenses.Core.dll
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\obj\Debug\net7.0\refint\Expenses.Core.dll
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\obj\Debug\net7.0\Expenses.Core.pdb
+C:\Users\brend\source\repos\Expense tracker - React, Redux, dotnet, sql\Expenses.WebAPI\Expenses.Core\obj\Debug\net7.0\ref\Expenses.Core.dll

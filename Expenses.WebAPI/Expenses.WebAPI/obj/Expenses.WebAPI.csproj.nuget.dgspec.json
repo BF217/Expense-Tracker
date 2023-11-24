@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.WebAPI\\Expenses.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.Core\\Expenses.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.Core\\Expenses.Core.csproj",
+        "projectName": "Expenses.Core",
+        "projectPath": "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.Core\\Expenses.Core.csproj",
+        "packagesPath": "C:\\Users\\brend\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.DB\\Expenses.DB.csproj": {
+                "projectPath": "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.DB\\Expenses.DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.DB\\Expenses.DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.DB\\Expenses.DB.csproj",
+        "projectName": "Expenses.DB",
+        "projectPath": "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.DB\\Expenses.DB.csproj",
+        "packagesPath": "C:\\Users\\brend\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.WebAPI\\Expenses.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.WebAPI\\Expenses.WebAPI.csproj",
+        "projectName": "Expenses.WebAPI",
+        "projectPath": "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.WebAPI\\Expenses.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\brend\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brend\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.Core\\Expenses.Core.csproj": {
+                "projectPath": "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.Core\\Expenses.Core.csproj"
+              },
+              "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.DB\\Expenses.DB.csproj": {
+                "projectPath": "C:\\Users\\brend\\source\\repos\\Expense tracker - React, Redux, dotnet, sql\\Expenses.WebAPI\\Expenses.DB\\Expenses.DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
